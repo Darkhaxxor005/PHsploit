@@ -78,11 +78,6 @@ PHsploit is a C&amp;C based RAT coded in pure python which can accept multiple c
 - [x] Play .wav file in client.[Win10] 
 - [x] Dump Wifi passwords from client.
 
-# Credential
-:mailbox:For the username and password for this tool contact bellow
-
-[![Mail Badge](https://img.shields.io/badge/-R00tDev1l-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:facebook.accverify@gmail.com@gmail.com)
-
 # DISCLAIMER
                                                  Educational purposes only
 

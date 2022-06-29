@@ -1,0 +1,16 @@
+pynput
+pypiwin32
+requests
+Pillow
+pyautogui
+cryptography
+pyinstaller
+psutil
+pyttsx3
+scapy
+opencv-python
+bottle
+colored
+windows_tools.antivirus
+plyer
+pycryptodome
